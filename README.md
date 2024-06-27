@@ -22,14 +22,10 @@ I am passionate about coding, problem-solving, and developing innovative solutio
 ### Badges
 
 <b>My GitHub Stats</b>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-harshada03&show_icons=true&locale=en&layout=compact" alt="n-harshada03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-harshada03&" alt="n-harshada03" /></p>
-
-
-<a href="https://www.github.com/n-harshada03"><img src="https://github-readme-stats.vercel.app/api?username=n-harshada03&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EmotionalApe's GitHub stats" /></a>
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-harshada03&label=Profile%20views&color=0e75b6&style=flat" alt="n-harshada03" /> </p>
