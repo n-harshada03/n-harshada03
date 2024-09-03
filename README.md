@@ -20,3 +20,14 @@ I am passionate about coding, problem-solving, and developing innovative solutio
 <p align="left"> <a href="https://www.github.com/n-harshada03" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/harshada-navale-101762221/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
+<b>My GitHub Stats</b>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-harshada03&show_icons=true&locale=en&layout=compact" alt="n-harshada03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-harshada03&" alt="n-harshada03" /></p>
+
+
+
+
+
+
