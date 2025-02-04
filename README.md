@@ -3,9 +3,6 @@ Hi 👋 My name is Harshada Navale
 
 Aspiring Java Software Developer
 --------------------
-
-I am passionate about coding, problem-solving, and developing innovative solutions. My technical skills span across multiple programming languages such as Java, Python, and Solidity, as well as tools like Git, Docker, Kubernetes, and AWS. I have a strong interest in Machine Learning, including Artificial Intelligence, Neural Networks, and Deep Learning.
-
 * ✉️  You can contact me at [harshdanavale2003@gmail.com](mailto:harshdanavale2003@gmail.com)
 * 🧠  I'm learning Spring Boot
 * 🤝  I'm open to collaborating on Projects
